@@ -1,7 +1,6 @@
 # ChatRoom
-###For using the follow the command
+### For using the follow the command
 >npm install
- npm run dev
- 
- local host:3000
+>npm run dev
+>local host:3000
  
